@@ -1,16 +1,22 @@
-### Hi there 👋
+### 🧑🏻‍💻 Hello, my name is Emre
 
-<!--
-**uysalemre/uysalemre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I am a professional Android Developer and iOS learner for now. 
+- 💁🏻‍♂️ I know Python, C++, C, Java, Kotlin, Swift and JavaScript languages.
+- 🤓 I use React Native, Flask, Django, Electron, Android and iOS frameworks in my daily life.
+- 💬 You can ask me anything you want. If I don't know, we can search together 👀
 
-Here are some ideas to get you started:
+### ℹ️ Biography 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏛 Graduated from ITU Computer Engineering
+- 🌍 I worked on many worldwide (Android / iOS) projects like : **Enpara.com, BluTV, PetalMaps, HMS ML, HMS Nearby, HMS Location, Beymen, Beymen Club, Network, Divarese**
+- In my free times, I am swimmer 🏊‍♀️ and diver 🤿 
+- [Linkedin Profile](https://www.linkedin.com/in/emreuysal34/)
+
+#### 📝 GitHub Stats
+
+<a href="https://github.com/uysalemre/uysalemre">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uysalemre&title_color=ffffff&text_color=c9cacc&icon_color=E67E22&bg_color=212121&langs_count=3" />
+</a>
+<a href="https://github.com/uysalemre/uysalemre">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=uysalemre&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=E67E22&bg_color=212121" alt="uysalemre's GitHub Stats" />
+</a>
