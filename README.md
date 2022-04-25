@@ -10,7 +10,8 @@
 - 🏛 Graduated from ITU Computer Engineering
 - 🌍 I worked on many worldwide (Android / iOS) projects like : **Enpara.com, BluTV, PetalMaps, HMS ML, HMS Nearby, HMS Location, Beymen, Beymen Club, Network, Divarese**
 - In my free times, I am swimmer 🏊‍♀️ and diver 🤿 
-- [Linkedin Profile](https://www.linkedin.com/in/emreuysal34/)
+- [Linkedin](https://www.linkedin.com/in/emreuysal34/) 
+- [Medium](https://medium.com/@emreuysall)
 
 #### 📝 GitHub Stats
 
